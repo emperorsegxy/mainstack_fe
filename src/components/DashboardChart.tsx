@@ -137,13 +137,12 @@ export default function DashboardChart () {
         }
     }
 
-    const lineOptions = {
+    const lineOptions: any = {
         chart: {
             type: 'area',
             toolbar: {
                 show: false
-            },
-            height: '0px'
+            }
         },
         stroke: {
             curve: 'straight'
