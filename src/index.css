@@ -1,3 +1,9 @@
+@font-face {
+  src: url("./assets/fonts/Söhne-Buch.otf");
+  font-family: "Sohne";
+}
+
 body {
   margin: 0;
+  font-family: "Sohne", Inter, serif !important;
 }

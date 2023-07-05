@@ -5,6 +5,9 @@ const theme = createTheme({
         primary: {
             main: '#FF5403'
         }
+    },
+    typography: {
+        fontFamily: "Sohne, Inter, serif"
     }
 })
 
