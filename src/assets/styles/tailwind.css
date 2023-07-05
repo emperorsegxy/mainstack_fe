@@ -3,3 +3,11 @@
 @import "tailwindcss/components";
 
 @import "tailwindcss/utilities";
+
+
+.card-container {
+    padding: 24px;
+    box-shadow: 0px 6px 10px 0px #80775D1A;
+    border-radius: 12px;
+    border: 1px solid #EFF1F6
+}
